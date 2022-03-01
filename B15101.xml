@@ -1,0 +1,321 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A moorning diti vpon the deceas of the most nobl prins Henry Earl of Arvndel ...</title>
+            <author>Painter, William, 1540?-1594.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1580</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B15101</idno>
+            <idno type="STC">STC 19120.7</idno>
+            <idno type="STC">ESTC S121806</idno>
+            <idno type="EEBO-CITATION">19241059</idno>
+            <idno type="OCLC">ocm 19241059</idno>
+            <idno type="VID">178673</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B15101)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 178673)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 384:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A moorning diti vpon the deceas of the most nobl prins Henry Earl of Arvndel ...</title>
+                  <author>Painter, William, 1540?-1594.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>by Iohn Allde,</publisher>
+                  <pubPlace>Imprinted at London :</pubPlace>
+                  <date>[1580]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to William Painter by STC (2nd ed.).</note>
+                  <note>Date of publication suggested by STC (2nd ed.).</note>
+                  <note>Formerly identified as STC 10932.</note>
+                  <note>Reproduction of original in the Henry E. Huntington Library and Art Gallery.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Arundel, Henry Fitz Alan, --  Earl of, 1512-1580 --  Poetry.</term>
+               <term>Elegiac poetry, English --  16th century.</term>
+               <term>Broadsides --  England --  16th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2014-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2014-02</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:178673:1"/>
+            <head>❀ <hi>A MOORNING DITI VPON THE DECEAS OF THE MOST NOBL</hi> Prins <hi>HENRY EARL</hi> of <hi>ARVNDEL,</hi> The auncient &amp; Primer Coounte of England, and right honorabl Baron <hi>Mautrauers</hi> &amp; <hi>Clun one of Gour meſt gracious Queen ELIZABETHS Maieſteez moſt honorabl priuy Coounſel, and of the right nobl Order of</hi> the Garter the eloeu Knight: that departed in the Lord at hiz Place by Toour hil ny London, on Thurzday Saint Matthiez <hi>day the latter xxiiii. of February in the xxii. yeer of her highnes moſt proſperoous Rein. 1579.</hi>
+            </head>
+            <lg>
+               <l>CArez &amp; complaints that ruful moornings may purport,</l>
+               <l>Proceding from a minde with woez oppreſt:</l>
+               <l>A heauy hart dooun ſunk within the breſt,</l>
+               <l>A damped coountenauns deuoid of all comfort,</l>
+               <l>May beſt beſeem the ſtate of woful wight:</l>
+               <l>And ſo may ſorroz ſmart, vs rightfully compell</l>
+               <l>With ſighs profoound bewail in careful plight,</l>
+               <l>The late deceas of hun whooz honor did excell,</l>
+               <l>
+                  <hi>HENRI</hi> that nobl Prins the <hi>EARL</hi> of <hi>ARVNDELL.</hi>
+                  <note place="margin">Deſcended-from Caro<g ref="char:EOLhyphen"/>lus magnus w bodied. at Aix 815.</note>
+               </l>
+            </lg>
+            <lg>
+               <l>Born &amp; allyed in Line long &amp; Heroicall,</l>
+               <l>Coomly in foorm of featurez &amp; perſonage,</l>
+               <l>Matched in hy &amp; equall mariage,<note place="margin">His firſt Wife Mary the Lord Marques Dorſets daughter.</note>
+               </l>
+               <l>Parent to one Woorthy Lord &amp; Ladyz twoo, withall:
+<note place="margin">Henry lord Matrauers</note>
+               </l>
+               <l>For the rare bloomz of tru Nobilttee</l>
+               <l>That firſt oout budded in hiz tender ſpring,
+<note place="margin">Lady Iane maried to Iohn Lord Lumley. Lady Mary maried to Thomas Duke of Norfolk.</note>
+               </l>
+               <l>The Earl hiz Father yet aliue,
+<note place="margin">William</note> &amp; hee</l>
+               <l>But Lord Mautrauers:
+<note place="margin">Anno .xxx. Hen. viii.</note> Oour late moſt famoous King</l>
+               <l>Of Callis too him gaue the truſt &amp; goouerning.</l>
+            </lg>
+            <lg>
+               <l>The weighty charge whearof when he had vnderfong,</l>
+               <l>He ranſakld the orderz olld &amp; nu,</l>
+               <l>The good he held in execution du,</l>
+               <l>The bad he brake, and ay by Iuſtis righted wrong:</l>
+               <l>With the tine French he tempred in ſuch ſort</l>
+               <l>Az for hiz Proowes great &amp; Pollecyz agen,</l>
+               <l>For Faine to Prins &amp; ſafety to the Fort,</l>
+               <l>Both far &amp; neer it waz pronoounced of all men.</l>
+               <l>That Callis neuer had like Capitain az then.</l>
+            </lg>
+            <lg>
+               <l>Oour King him made vpon this fiue yeerz nobl ſay,
+<note place="margin">Captain of Calles v. yeeres.</note>
+               </l>
+               <l>At Bullen ſeege hy Marſhall of hiz hoſt:
+<note place="margin">Lord Mar<g ref="char:EOLhyphen"/>ſhall at the ſeege of Bullen. An .xxxv. Henry viii.</note>
+               </l>
+               <l>Wheraz hiz peinz his daungerz with the moſt,</l>
+               <l>Hiz valiauns by hart &amp; hand waz prompt all way.</l>
+               <l>And though a molehil to a mooknt be ſmall,</l>
+               <l>For certein truth yet this the writer bringz to minde,</l>
+               <l>Whoo ſerued him thear at theez moſt actionz all:</l>
+               <l>And for the grace enteet that euer he did finde,</l>
+               <l>May moſt deplore hiz death, but honor all his kinde.</l>
+            </lg>
+            <lg>
+               <l>The Prins benign anon ſoon az the tooun he wan.
+<note place="margin">xxxv. Hen. viii.</note>
+                  <note place="margin">Prou. 17.</note>
+               </l>
+               <l>For ſeruis hy ooon by this nobl Peer,</l>
+               <l>Chaz him too be one of hiz Coounſel neer,</l>
+               <l>Lord Chamberlain allſo: which Honorz after than</l>
+               <l>King Edward gaue him: but Queen Mary made,</l>
+               <l>Him Prezident of Coounſel and Lord Stuard too be:</l>
+               <l>Of our Queen eak that dignitee he hade.
+<note place="margin">Anno .i. Regine Elizabeth.</note>
+                  <note place="margin">Prou. Ibidem.</note>
+               </l>
+               <l>So az a thing it is right euident to ſe,</l>
+               <l>In hoow great grace With all hiz Soouerainz waz he.</l>
+            </lg>
+            <lg>
+               <l>The higher karged ſhip, and deepar it dooth draw,</l>
+               <l>The daunger more of ſtorm of rok &amp; ſand,</l>
+               <l>And blaſts may blo that no ſtate can withſtand.</l>
+               <l>At anker holld of Fortitude when roze a flaw,</l>
+               <l>He lay, with honor till he cam to port.</l>
+               <l>And az he thought none praized vertu az they ow,</l>
+               <l>Onles their deedz tru vertu did reaport,</l>
+               <l>He ſurely for hiz part, commended vertu ſo,</l>
+               <l>Az waz hiz Embleam, <hi>LAVS VIRTVTIS ACTIO.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>For Woorthy pleazurz ells: hiz Hors &amp; Armour ſitch.</l>
+               <l>Hiz ſkil profoound in both, his ſolem Queer</l>
+               <l>By vois &amp; Inſtruments ſo ſweet to heer,</l>
+               <l>Hiz Iewelz, Antiquiteez, ſo many rare &amp; ritch,</l>
+               <l>Hiz Tablz, Cloks, &amp; his ſymmetricall</l>
+               <l>Billdingz, ſo lumptuoouſly adoournd in euery part:</l>
+               <l>For eend, his exquizit appointments all</l>
+               <l>So excellent for coſt, for hy deuiſe &amp; art,</l>
+               <l>Az might be ſignz certain of hiz ſo nobl hart.</l>
+            </lg>
+            <lg>
+               <l>For ſeruis then, for honor, or for hiz Princez pleazure,
+<note place="margin">Twiſe Em<g ref="char:EOLunhyphen"/>baſſadour to King Philip in Flaunderz and cheef Co<g ref="char:cmbAbbrStroke">̄</g>miſione: in Queene Maryes dayes.</note>
+               </l>
+               <l>Hoow mooch ioyd he thear too be liberall?</l>
+               <l>Of hart ſy nceer toward the Noblz all,</l>
+               <l>Too State of life he made his Birthdegree his meazure,</l>
+               <l>Ootherz merit ſmall, mooch he wolld avauns</l>
+               <l>Boounteous, benign, releeuing many greeuous gronez,</l>
+               <l>In freendſhip firm for ony chaunge or chauns.</l>
+               <l>But ah for wo: dear death not moouabl by monez,</l>
+               <l>All theez hiz ſhining lights quite quenched hath at onez.</l>
+            </lg>
+            <lg>
+               <l>Obſcuring orgulioouſly by dark &amp; deadly blaſt,</l>
+               <l>The luſtr of Iewell, the more ineſtimabl,</l>
+               <l>Az iz the loſſ ſo far irreperabl:</l>
+               <l>An Earl, a Peer, a Prins, the only &amp; the laſt</l>
+               <l>Of that ſo by <hi>FITZ ALLENZ</hi> name &amp; blood,</l>
+               <l>But why ſo ſharp O Memory dooſt thoou declare</l>
+               <l>Theez groudz of greeuez: more meet wear for thy mood</l>
+               <l>Sum <hi>Opium</hi> for ſleep or ells white <hi>Nenupbare,</hi>
+               </l>
+               <l>A ſooup of <hi>Lethes</hi> lake for to forget thy care.</l>
+            </lg>
+            <lg>
+               <l>But noow, az wants a cheef one amoong the States hy,</l>
+               <l>So Nobl youth, &amp; all of gentl hart:</l>
+               <l>The Herallds ſage, the wize &amp; learnd in Art,
+<note place="margin">Borne at Gaunt <hi>1500</hi> Croound Emperoor at Bonon<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <hi>1530.</hi>
+                  </note>
+               </l>
+               <l>This forlorn ſkath alas be wail may rufully</l>
+               <l>And thoou infauſt day, diſmoll, biſextill,</l>
+               <l>Not hallt by Charliez birth &amp; coronation ſight</l>
+               <l>So good,
+<note place="margin">Charlez ſlain by con<g ref="char:EOLunhyphen"/>ſpiratoour<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> at Burges <hi>1127.</hi> I. <gap reason="illegible" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> The french Kings poour <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> ſlain and he <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> takeat Pau<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> 
+                     <gap reason="illegible" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap> 
+                     <hi>1525.</hi> Io.</note> az too the Earl of Flaunders ill</l>
+               <l>And too French Frauncis eak. O cruell in thy ſpight</l>
+               <l>Wo woorth the tune that noow ſo ſoon y<hi rend="sup">e</hi> camſt too light.</l>
+            </lg>
+            <lg>
+               <l>But ſins that, heauy ſprite dooth freat the minde to nought,</l>
+               <l>Driez vp the bonez &amp; gallz the hart ſo ſore,</l>
+               <l>Healps not the caſe (God wot) a whit the more,</l>
+               <l>By wizdoom then bethink we, heerin az we ought,</l>
+               <l>Firſt y<hi rend="sup">t</hi> this Peer (hoow euer wear the caſe)</l>
+               <l>With looue of all Eſtatz in harts ſinceer enrolld,</l>
+               <l>In honor pure did run hiz nobl raſe,</l>
+               <l>Then ſaw his Childerz Children (a crooun to hiz yeerz olld</l>
+               <l>Az Grau<g ref="char:cmbAbbrStroke">̄</g>dſtre (to their glory) eak him they did behold.</l>
+            </lg>
+            <lg>
+               <l>Whoo wear ſo vertuous all of minde &amp; inclination</l>
+               <l>As God took them, the ſooner to be bleſt:</l>
+               <l>Yet heer left one to coountervail the reſt,</l>
+               <l>Of whooz encreaſing honor ſuch iz the expectation</l>
+               <l>That in Avitall State &amp; Dignitee</l>
+               <l>Az he ſucceedz &amp; luckily enioyz the ſame,</l>
+               <l>So hope iz that through Gods benignitee:</l>
+               <l>By him ſhall gliſter long in honor &amp; in fame,</l>
+               <l>The bright ſhine of y<hi rend="sup">e</hi> magnific <hi>ARVNDELLI</hi> name.</l>
+            </lg>
+            <lg>
+               <l>Bethink we eak hoow well he diſpozed thingz eachon,</l>
+               <l>What tender woords our Queen vntoo him ſent:</l>
+               <l>Wherat his hart did earn, hiz eiz relent,</l>
+               <l>Reizd vp hiz febl Sprite, that then by him anon</l>
+               <l>Intoo the Lords handz recommended is.</l>
+               <l>In Fame &amp; in Succeſſion ſins heer he liueth ay,</l>
+               <l>In Soul allſo too euerlaſting bits</l>
+               <l>Let vs by ſolas ſuppl oour ſorroz az we may,</l>
+               <l>And hope in Chriſte to haue a ioyful meeting day,</l>
+            </lg>
+            <p>
+               <hi>Deuinctiſſimò (pro facultate) Arundelius. Guil. P. G.</hi>
+            </p>
+            <p>¶ Born on Saint Georgez day <hi>1512.</hi> Liued a Coounſeller and in great Officez <hi>43.</hi> yéer. Buryed at Arundell in Suſſex Tuiſday the <hi>22.</hi> of March <hi>An. R. R. E. 22.</hi>
+            </p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>¶ Imprinted at London by <hi>Iohn Allde.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
